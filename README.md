@@ -36,13 +36,14 @@
 <br />
 
 #
-
-<a href="Github Stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=sommos&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" />
-</a>
-<a href="Top Languages">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sommos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=5" />
-</a>
+<p align="center">
+  <a href="Github Stats">
+    <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=sommos&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" />
+  </a>
+  <a href="Top Languages">
+    <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sommos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=5" />
+  </a>
+</p>
           
 <!--
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sommos&layout=compact&bg_color=00000000&title_color=00FFFF)
