@@ -36,6 +36,7 @@
 <br />
 
 #
+
 <p align="center">
   <a href="Github Stats">
     <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=sommos&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" />
@@ -44,6 +45,12 @@
     <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sommos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=5" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sommos/sommos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sommos/sommos/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sommos/sommos/output/github-contribution-grid-snake.svg">
+</picture>
           
 <!--
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sommos&layout=compact&bg_color=00000000&title_color=00FFFF)
