@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="Github Stats">
-    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sommos&show_icons=true&bg_color=30&include_all_commits=true,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github" />
+    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sommos&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="Top Languages">
-    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sommos&bg_color=&include_all_commits=true,e96443,904e95&title_color=fff&text_color=fff&langs_count=5" />
+    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sommos&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=5&include_all_commits=true" />
   </a>
 </p>
 
