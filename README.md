@@ -39,10 +39,10 @@
 
 <p align="center">
   <a href="Github Stats">
-    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sommos&number_format=long&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&card_width=300&line_height=30&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&count_private=true&border_radius=10" />
+    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sommos&number_format=long&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&card_width=250&line_height=30&show_icons=true&hide_title=true&rank_icon=percentile&include_all_commits=true&count_private=true&border_radius=10" />
   </a>
   <a href="Top Languages">
-    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sommos&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&bar_color=fff&text_bold=true&card_width=300&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" />
+    <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sommos&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&bar_color=fff&text_bold=true&card_width=250&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" />
   </a>
 </p>
 
