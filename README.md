@@ -45,11 +45,10 @@
     <img height=230 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sommos&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&bar_color=fff&text_bold=true&card_width=250&hide_title=true&include_all_commits=true&count_private=true&border_radius=10" />
   </a>
 </p>
-
-<br />
-
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github contribution grid snake animation" src="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sommos/sommos/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sommos/sommos/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sommos/sommos/output/github-snake-dark.svg">
 </picture>
+</div>
