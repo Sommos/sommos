@@ -1,5 +1,5 @@
 <p align="center">
-  Hi, I'm Samuel. I enjoy working on new tools, and building AI, ML and image recognition programs.
+  Hi, I'm Samuel. I enjoy working on new tools and building programs for encryption, steganography, and image recognition.
 </p>
 
 <p align="center">
