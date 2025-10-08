@@ -7,10 +7,6 @@
 <p align="center">
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
